@@ -1,0 +1,9 @@
+body {
+    background-color: aquamarine;
+}
+.wrapper {
+    border-radius: 40px;
+    width: 1200px;
+    background: #fff;
+    margin: 0 auto;
+}
